@@ -1,3 +1,5 @@
+
+Erick Gaona - Oliver Saraguro
 # Taller12
 
 ## Problemáticas
